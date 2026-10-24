@@ -1,4 +1,4 @@
-// Automated CLI Environment Validation Example (Rev #2 - 2026-10-24T10:30:51Z)
+// Automated CLI Environment Validation Example (Rev #2 - 2026-10-24T10:20:49Z)
 const assert = require('node:assert');
 
 function validatePort(raw) {
@@ -9,4 +9,4 @@ function validatePort(raw) {
 assert.strictEqual(validatePort('8080'), true);
 assert.strictEqual(validatePort('0'), false);
 assert.strictEqual(validatePort('70000'), false);
-console.log('Validation suite rev #2 passed at 2026-10-24T10:30:51Z');
+console.log('Validation suite rev #2 passed at 2026-10-24T10:20:49Z');
