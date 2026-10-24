@@ -1,0 +1,16 @@
+X or Bluesky: https://bsky.app/profile/tutunguyen93.bsky.social/post/3mylckuktwv2s
+Medium or dev.to: https://dev.to/nguyn_t_909b2640a4a8b27/analysing-kintara-kins-browser-solana-seeker-isometric-mmorpg-in-the-mycelium-strategy-3koc
+
+## Submission Details
+
+- **Intended Audience**: Newcomers to the Solana and Mycelium Finance ecosystems, fans of classic skill-grinding isometric RPGs (such as *Old School RuneScape*), and Web3 gaming researchers evaluating playable Solana games with live on-chain token sinks.
+- **Main Idea / Angle**: Unlike many Web3 games that launch tokens before shipping playable software, Kintara (`$KINS`, `Tqj8yFmagrg7oorpQkVGYR52r96RFTamvWfth9bpump`) combines frictionless zero-cost onboarding (Privy social/email login and free play up to Total Level 10 across five starter realms) with a sub-$1 token holding gate (`1,000 $KINS` ≈ `$0.29 USD`) to unlock advanced realms and player trading, backed by a 50% token burn on `$5 USD` Spinner Wheel spins and an `8.77%` (`$2,580.57 USD`) liquidity allocation inside the Mycelium Strategy (`MYC/KINS` Raydium pool).
+- **Source of Each Number Used (with Observation Date for Changing Data)**:
+  1. **69,428 total registered player accounts** and **452 players online now** across Server 1 and Server 2 — Source: Kintara live site telemetry API (`https://kintara.com/api/site/stats`), observed on **2026-10-23 at 23:07:51 UTC**.
+  2. **`$KINS` Price (`$0.0002933 USD` / `0.000002868 SOL`), Circulating Market Cap & FDV (`$290,937 USD`), PumpSwap Pool Liquidity (`$87,918.27 USD` — `150,579,309 KINS` + `427.6709 SOL`), 24h Trading Volume (`$106,471.28 USD` across `1,668` transactions: `833` buys / `835` sells), and 24h Price Change (`-18.16%`)** — Source: DexScreener API & pair page (`https://dexscreener.com/solana/f42tznkpavq1vucrl6ymhc6yqvpt84fwwgzbntv2wb3w`, pair `F42tZnKPavq1VUcrL6ymhc6YqVpt84fWwgzbNTv2wb3W`), observed on **2026-10-23 at 23:07:51 UTC**.
+  3. **Mycelium Strategy Allocation (`$2,580.57 USD` or `8.77%` of `$29,419.60 USD` total strategy liquidity, #5 largest position, holding `65,780,268.65 $MYC` in Raydium `MYC/KINS` pool `FmyAWpcEGTrV7hHdZ391kKycektEBZzoetL6GtjDkLua`)** — Source: Mycelium Finance Allocations page (`https://www.myceliumfinance.com/allocations`) and Mycelium MCP server (`https://www.myceliumfinance.com/api/mcp`, tools `get_mycelium_allocation` and `get_mycelium_distribution`), observed on **2026-10-23 at 23:07:51 UTC**.
+  4. **Game Mechanics & Token Utility Numbers (Free play up to Total Level 10, `1,000 $KINS` holding requirement for 4 advanced realms, 24-hour holding requirement for trading/Marketplace/Guild Bank/tombstone recovery, `95%` seller / `5%` treasury Marketplace fee split, and `$5 USD` in `$KINS` paid Spinner Wheel spin with `50%` burned and `50%` to treasury)** — Source: Official Kintara Game Guide (`https://kintara.com/#docs`) and in-game update feed (`https://kintara.com/api/site/feed`, Updates v5.9 and v6.0), verified on **2026-10-23 UTC**.
+- **Optional Community Share Link**:
+  - **The Colony (`findings` community)**: https://thecolony.ai/posts/b5a40d72-b051-4615-beba-966fdcc1c07d
+- **Original Infographic URL**:
+  - https://raw.githubusercontent.com/tunddev-lgtm/ts-cli-env-validator/main/audits/kintara_analysis_infographic.png
